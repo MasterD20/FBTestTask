@@ -1,0 +1,41 @@
+<resources>
+
+
+    <string name="app_name">FB</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="facebook_app_id">1928816547158016</string>
+    <string name="title_activity_view_photo">ViewPhotoActivity</string>
+    <string name="go_gallery">View FB Photo</string>
+    <string name="action_settings">Setting</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="album">album</string>
+    <string name="title_activity_my_profile">MyProfileActivity</string>
+    <string name="gotoprofile">goToProfile</string>
+    <string name="viral_android">Viral Android</string>
+    <string name="android_profile_ui_design">Android Profile UI Design</string>
+    <string name="title_activity_view_profil">ViewProfileActivity</string>
+    <string name="title_activity_edit_page">EditPageActivity</string>
+
+
+    <string name="hint_name">First Name</string>
+    <string name="hint_email">Email</string>
+
+    <string name="hint_bday">Birthday</string>
+
+    <string name="btn_sign_up">Save </string>
+
+    <string name="err_msg_bday">Enter your first name</string>
+    <string name="err_msg_name">Enter your first name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+
+
+    <string name="hello">MainActivity</string>
+
+
+    <string name="edit_profile">Edit profile</string>
+    <string name="out">Out</string>
+    <string name="spinner_title">Menu</string>
+    <string name="sign_in_vk">Sign in VK</string>
+    <string name="gallery">Gallery</string>
+    <string name="exit_app">Exit</string>
+</resources>
